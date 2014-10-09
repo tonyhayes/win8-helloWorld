@@ -1,0 +1,15 @@
+c:\users\ieuser\documents\visual studio 2013\Projects\HelloWorld\HelloWorld\bin\Debug\AppxManifest.xml
+c:\users\ieuser\documents\visual studio 2013\Projects\HelloWorld\HelloWorld\bin\Debug\HelloWorld.build.appxrecipe
+c:\users\ieuser\documents\visual studio 2013\Projects\HelloWorld\HelloWorld\bld\Debug\priconfig.xml
+c:\users\ieuser\documents\visual studio 2013\Projects\HelloWorld\HelloWorld\bld\Debug\priconfig.xml.intermediate
+c:\users\ieuser\documents\visual studio 2013\Projects\HelloWorld\HelloWorld\bld\Debug\layout.resfiles
+c:\users\ieuser\documents\visual studio 2013\Projects\HelloWorld\HelloWorld\bld\Debug\layout.resfiles.intermediate
+c:\users\ieuser\documents\visual studio 2013\Projects\HelloWorld\HelloWorld\bld\Debug\resources.resfiles
+c:\users\ieuser\documents\visual studio 2013\Projects\HelloWorld\HelloWorld\bld\Debug\resources.resfiles.intermediate
+c:\users\ieuser\documents\visual studio 2013\Projects\HelloWorld\HelloWorld\bld\Debug\pri.resfiles
+c:\users\ieuser\documents\visual studio 2013\Projects\HelloWorld\HelloWorld\bld\Debug\pri.resfiles.intermediate
+c:\users\ieuser\documents\visual studio 2013\Projects\HelloWorld\HelloWorld\bld\Debug\qualifiers.txt
+c:\users\ieuser\documents\visual studio 2013\Projects\HelloWorld\HelloWorld\bld\Debug\qualifiers.txt.intermediate
+c:\users\ieuser\documents\visual studio 2013\Projects\HelloWorld\HelloWorld\bld\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\users\ieuser\documents\visual studio 2013\Projects\HelloWorld\HelloWorld\bld\Debug\ProjectArchitectures.txt
+C:\Users\IEUser\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\bin\Debug\resources.pri

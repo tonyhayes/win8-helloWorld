@@ -1,0 +1,10 @@
+[Files]
+"C:\Users\IEUser\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\bin\Debug\AppxManifest.xml" "AppxManifest.xml"
+"C:\Users\IEUser\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\default.html" "default.html"
+"C:\Users\IEUser\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\images\logo.scale-100.png" "images\logo.scale-100.png"
+"C:\Users\IEUser\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\images\smalllogo.scale-100.png" "images\smalllogo.scale-100.png"
+"C:\Users\IEUser\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\images\splashscreen.scale-100.png" "images\splashscreen.scale-100.png"
+"C:\Users\IEUser\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\images\storelogo.scale-100.png" "images\storelogo.scale-100.png"
+"C:\Users\IEUser\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\js\default.js" "js\default.js"
+"C:\Users\IEUser\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\css\default.css" "css\default.css"
+"C:\Users\IEUser\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\bin\Debug\resources.pri" "resources.pri"

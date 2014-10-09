@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>IE11WIN8_1</Machine>
+    <WindowsUser>IEUser</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>c189dfc1-abd8-4a48-a040-f2e8c7a35610</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\IEUser\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\bld\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>1EAA12E6EF5329853438F380CB0187A631EEFDB41634FD4FEEA2B8C9A38BB1D0</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>c189dfc1-abd8-4a48-a040-f2e8c7a35610_1.0.0.0_neutral__xnnwpqakf2yqj</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>c189dfc1-abd8-4a48-a040-f2e8c7a35610_xnnwpqakf2yqj!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>c189dfc1-abd8-4a48-a040-f2e8c7a35610</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=IEUser</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\IEUser\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-10-08T19:34:21.015</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\IEUser\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\default.html">
+      <PackagePath>default.html</PackagePath>
+      <Modified>2014-10-08T19:34:19.765</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\IEUser\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\images\logo.scale-100.png">
+      <PackagePath>images\logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-06-03T00:38:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\IEUser\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\images\smalllogo.scale-100.png">
+      <PackagePath>images\smalllogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-06-03T00:38:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\IEUser\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\images\splashscreen.scale-100.png">
+      <PackagePath>images\splashscreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-06-03T00:38:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\IEUser\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\images\storelogo.scale-100.png">
+      <PackagePath>images\storelogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-06-03T00:38:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\IEUser\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\js\default.js">
+      <PackagePath>js\default.js</PackagePath>
+      <Modified>2014-10-07T19:40:38.733</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\IEUser\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+      <Modified>2014-10-07T19:18:35.571</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\IEUser\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorld\bin\Debug\ReverseMap\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2014-10-08T19:34:20.983</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.WinJS.2.0\1.0\">
+      <Name>Microsoft.WinJS.2.0</Name>
+      <Version>1.0.9600.17018</Version>
+      <Architecture>Neutral</Architecture>
+      <FrameworkIdentity>Name=Microsoft.WinJS.2.0, MinVersion=1.0.9600.17018</FrameworkIdentity>
+      <AppxLocation>C:\Program Files\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.WinJS.2.0\1.0\Microsoft.WinJS.2.0.appx</AppxLocation>
+      <MoreInfo>http://go.microsoft.com/fwlink/%3fLinkId=260891</MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

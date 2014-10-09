@@ -1,0 +1,15 @@
+c:\users\ieuser\documents\visual studio 2013\Projects\HelloWorld\HelloWorld\bin\Release\ReverseMap\resources.pri
+c:\users\ieuser\documents\visual studio 2013\Projects\HelloWorld\HelloWorld\bin\Release\AppxManifest.xml
+c:\users\ieuser\documents\visual studio 2013\Projects\HelloWorld\HelloWorld\bin\Release\HelloWorld.build.appxrecipe
+c:\users\ieuser\documents\visual studio 2013\Projects\HelloWorld\HelloWorld\bld\Release\priconfig.xml
+c:\users\ieuser\documents\visual studio 2013\Projects\HelloWorld\HelloWorld\bld\Release\priconfig.xml.intermediate
+c:\users\ieuser\documents\visual studio 2013\Projects\HelloWorld\HelloWorld\bld\Release\layout.resfiles
+c:\users\ieuser\documents\visual studio 2013\Projects\HelloWorld\HelloWorld\bld\Release\layout.resfiles.intermediate
+c:\users\ieuser\documents\visual studio 2013\Projects\HelloWorld\HelloWorld\bld\Release\resources.resfiles
+c:\users\ieuser\documents\visual studio 2013\Projects\HelloWorld\HelloWorld\bld\Release\resources.resfiles.intermediate
+c:\users\ieuser\documents\visual studio 2013\Projects\HelloWorld\HelloWorld\bld\Release\pri.resfiles
+c:\users\ieuser\documents\visual studio 2013\Projects\HelloWorld\HelloWorld\bld\Release\pri.resfiles.intermediate
+c:\users\ieuser\documents\visual studio 2013\Projects\HelloWorld\HelloWorld\bld\Release\qualifiers.txt
+c:\users\ieuser\documents\visual studio 2013\Projects\HelloWorld\HelloWorld\bld\Release\qualifiers.txt.intermediate
+c:\users\ieuser\documents\visual studio 2013\Projects\HelloWorld\HelloWorld\bld\Release\MultipleQualifiersPerDimensionFound.txt
+c:\users\ieuser\documents\visual studio 2013\Projects\HelloWorld\HelloWorld\bld\Release\ProjectArchitectures.txt
